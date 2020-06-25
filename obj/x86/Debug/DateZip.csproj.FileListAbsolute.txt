@@ -1,0 +1,7 @@
+D:\Projects\DateZip\obj\x86\Debug\DateZip.Properties.Resources.resources
+D:\Projects\DateZip\obj\x86\Debug\DateZip.csproj.GenerateResource.Cache
+D:\Projects\DateZip\bin\Debug\DateZip.exe
+D:\Projects\DateZip\bin\Debug\DateZip.pdb
+D:\Projects\DateZip\obj\x86\Debug\DateZip.exe
+D:\Projects\DateZip\obj\x86\Debug\DateZip.pdb
+D:\Projects\DateZip\obj\x86\Debug\DateZip.csprojResolveAssemblyReference.cache
